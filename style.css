@@ -1,4 +1,4 @@
-:root{--color-primary:#4A90E2;--color-secondary:#50E3C2;--color-accent:#F5A623;--color-background:#FFFFFF;--color-text:#4A4A4A;}
+:root{--color-primary:#4A90E2;--color-secondary:#50E3C2;--color-accent:#F39C12;--color-background:#F5F5F5;--color-text:#333333;}
 body{font-family:'Inter',system-ui,sans-serif;background:var(--color-background);color:var(--color-text);}
 a{transition:opacity .2s ease;}
 a:hover{opacity:.85;}

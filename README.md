@@ -1,6 +1,6 @@
 # Paul Graham
 
-Empowering Entrepreneurs to Achieve Greatness
+Inspiring Entrepreneurs to Build the Future
 
 This static site was automatically generated on 2026-07-10 as a redesign preview by an automated lead-generation pipeline.
 

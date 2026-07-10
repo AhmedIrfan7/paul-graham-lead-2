@@ -1,6 +1,6 @@
 # Paul Graham
 
-Empowering Innovators to Succeed
+Empowering Startups to Thrive
 
 This static site was automatically generated on 2026-07-10 as a redesign preview by an automated lead-generation pipeline.
 

@@ -1,6 +1,6 @@
 # Paul Graham
 
-Empowering Entrepreneurs to Innovate
+Inspiring the Next Generation of Entrepreneurs
 
 This static site was automatically generated on 2026-07-10 as a redesign preview by an automated lead-generation pipeline.
 
